@@ -36,7 +36,14 @@ ___
 - [x] Use Pipelines with low cardinality 
 - [x] Use Pipelines with all categorical features
 
+* MAE: 17741.26297945205
+
 ___
 
+## Pipelines_less_missing
 
+- [x] Remove columns with too many missing values
+- [x] Use Pipelines
+
+* MAE: 17609.825650684932
 

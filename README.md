@@ -56,3 +56,19 @@ ___
 - Better results on train.csv but slightly worse on test.csv
 - MAE: 17523.535102739726
 - Kaggle score: 16356.22338
+
+---
+
+## Cross-validation 
+
+- [x] cross-validation
+
+- [x] Visualize the results
+
+#### Cross-validation with less missing features and 250 estimators
+- MAE: 17448.4844109589
+- Kaggle score: 16373.11794
+
+#### Cross-validation with all the data and 300 estimators
+- MAE: 17479.838664383562
+- Kaggle score: 16423.34155

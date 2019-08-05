@@ -72,3 +72,18 @@ ___
 #### Cross-validation with all the data and 300 estimators
 - MAE: 17479.838664383562
 - Kaggle score: 16423.34155
+
+---
+
+## XGBoost with low-cardinality & less missing categorical columns
+
+- [x] Remove categorical features with high cardinality
+- [x] Check the number of missing values
+- [x] Cross-validation
+- [x] Use it with less missing categorical columns
+#### With low cardinality
+- CV MAE: 16476.5398727939
+- Kaggle score: 15017.66000
+#### With less missing categorical columns
+- CV MAE: 16272.231832972175
+- Kaggle score: 14984.44846

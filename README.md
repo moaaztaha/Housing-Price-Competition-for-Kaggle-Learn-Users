@@ -46,4 +46,13 @@ ___
 - [x] Use Pipelines
 
 * MAE: 17609.825650684932
+* Kaggle score: 16347.22769
 
+---
+
+## Pipelines without missing categorical columns
+
+- [x] Remove categorical with missing value
+- Better results on train.csv but slightly worse on test.csv
+- MAE: 17523.535102739726
+- Kaggle score: 16356.22338
